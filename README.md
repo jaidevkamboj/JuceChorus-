@@ -64,4 +64,4 @@ JuceChorusPlugin/
 
 ## License
 
-MIT © YourCompany
+JAIDEV KAMBOJ © YourCompany
